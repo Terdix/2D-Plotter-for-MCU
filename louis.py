@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
-from streamlit_webserial import st_webserial  # <--- Nouveau
+import st_webserial
 import io
 import random
 from PIL import Image
@@ -123,3 +123,4 @@ with col2:
 # Auto-refresh
 time.sleep(refresh_ms / 1000)
 st.rerun()
+
