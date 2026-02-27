@@ -2,5 +2,5 @@ streamlit
 numpy
 matplotlib
 pyserial
-st-web-serial
+pyserial
 Pillow
