@@ -1,4 +1,6 @@
-matplotlib
-streamlit 
+streamlit
 numpy
+matplotlib
 pyserial
+streamlit-webserial
+Pillow
