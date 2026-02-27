@@ -1,8 +1,4 @@
 matplotlib
 streamlit 
 numpy
-serial
-io
-random
 PIL
-time
